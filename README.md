@@ -62,8 +62,7 @@ Cписки
 
 ![Логотип](https://yandex.ru/images/search?family=yes&from=tabbar&img_url=https%3A%2F%2Famericansongwriter.com%2Fwp-content%2Fuploads%2F2025%2F06%2FMichaelJackson.png&lr=2&p=2&pos=1&rpt=simage&text=%D0%BC%D0%B0%D0%B9%D0%BA%D0%BB%20%D0%B4%D0%B6%D0%B5%D0%BA%D1%81%D0%BE%D0%BD)
 
-[![Клик по картинке](5adec42c6b07a5937920481dcf692ab0.jpg)]
-(https://fonwa11.ru)
+[![Клик по картинке](5adec42c6b07a5937920481dcf692ab0.jpg)](https://fonwa11.ru)
 
 Цитата
 -------
@@ -86,6 +85,46 @@ print(f"{c} = {a} + {b}")
 ```
 Таблицы
 --------
+ ---: = ориентация справа
+
+:---: ориентация по центру
+
+:--- = ориентация слева
+
+| Name | Age | City   |
+|-----:|:---:|--------|
+|SS    |34   | MOd    |
+|SS    |34   | MOd    |
+|SS    |34   | MOd    |
+|SS    |34   | MOd    |
+|SS    |34   | MOd    |
+
+Линии
+-----
+
+---
+***
+\ # fdl
+\ [ dsdssd\]
+
+Диаграмма
+---------
+
+```mermaid
+graph TD
+A[Start] --> B{2>3}
+B --> |Да| C[Действие]
+B --> |Нет| D[Конец]
+```
+Заголовки
+----------
+
+- [Заголовки](#1-заголовки)
+  
+- [Списки](#3-Списки)
+  
+- [Списки]
+
 
 
 
